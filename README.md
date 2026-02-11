@@ -6,7 +6,7 @@ Date: 02/12/2026
 This program solves the 24-Puzzle (5x5 sliding tile puzzle) using A* informed search, which combines Uniform Cost Search and Greedy Best-First Search to maximize the advantages and minimize disadvantages.  
 
 To run with output in the terminal:  
-- Run python3 HW1_InformedSearch.py  
+- Run python3 HW2_InformedSearch.py  
 - The program will direct you from there.  
 	
 INITIAL SET: 2,11,0,4,5,6,1,3,9,12,8,19,13,7,10,18,17,14,15,20,16,21,22,23,24  
